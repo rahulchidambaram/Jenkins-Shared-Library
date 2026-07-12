@@ -1,8 +1,8 @@
 def call(){
     echo "Testing the application"
 
-    sh ''' 
+    sh ```
         echo "Testing is running..."
         echo "Application Test completed successfully"
-    '''
+    ```
 }
